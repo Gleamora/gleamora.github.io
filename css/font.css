@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Iosevka';
+  src: local('Iosevka'),
+    url('/fonts/iosevka-regular.woff2') format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Iosevka';
+  src: local('Iosevka'),
+    url('/fonts/iosevka-bold.woff2') format("woff2");
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+  font-family: 'Iosevka';
+  src: local('Iosevka'),
+    url('/fonts/iosevka-oblique.woff2') format("woff2");
+  font-weight: italic;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'DOS';
+  font-style: normal;
+  font-weight: normal;
+  src: local('DOS'), url('/fonts/fusion-pixel.woff2') format('woff2')
+}
+@font-face {
+  font-family: 'code';
+  font-style: normal;
+  font-weight: normal;
+  src: local('code'), url('/fonts/dina10px.woff2') format('woff2')
+}
