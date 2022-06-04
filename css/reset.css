@@ -77,3 +77,10 @@ figure {
 h1{
   font-size: 2em !important;
 }
+h3{
+  font-size: 1.5em !important;
+}
+.blog-title{
+  font-size: 2.9em;
+  font-weight: bold;
+}

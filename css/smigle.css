@@ -3,6 +3,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 10px;
+  font-size: 1.2rem;
 }
 #brand {
   display: flex;
@@ -51,11 +52,18 @@ code{
   font-family: code, Courier !important;
 }
 .avatar{
-  width: 90px;
-  height: 90px;
+  width: 120px;
+  height: 120px;
   background-repeat: no-repeat;
-  background-size: 94px 86px;
+  background-size: 120px 110px;
   background-position: 31% -128%;
+}
+.summary-title{
+  margin-bottom: 5px;
+}
+.summary-info{
+  font-size: 1.1rem;
+  color: #9d6161;
 }
 #brand{
   margin-left: -20px;
